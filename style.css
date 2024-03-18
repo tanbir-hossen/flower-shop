@@ -1,0 +1,11 @@
+:root {
+  --ff: "Lato", sans-serif;
+
+  --fw-normal: 400;
+  --fw-bold: 700;
+  --fw-extraBold: 900;
+}
+body {
+  font-family: var(--ff);
+  font-weight: var(--fw-normal);
+}
